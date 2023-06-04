@@ -1,4 +1,4 @@
-# Classifying papers based on publication title
+# Classifying biomedical papers using publication titles
 Background:
 Researchers often struggle to organize publications into categories when performing literature searches. This is my attempt to create a basic automated publication title classifier. Specifically, I use the BioBERT model from HuggingFace to create a basic binary classifier that assigns publication into one of two categories: cancer or bacterial cell division.
 

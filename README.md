@@ -10,7 +10,9 @@ Results:
 
 I also deploy the models as AWS SageMaker endpoints and setup a Streamlit app for ease of use.  
 
-Python libraries/tools: Standard Python libraries (Pandas, NumPy etc...), 🤗 transformers, weights and biases, Streamlit and PyTorch. 
+Python libraries/tools: Standard Python libraries (Pandas, NumPy etc...), 🤗 transformers, weights and biases, Streamlit and PyTorch.
+
+
 **Figure 1: Streamlit app interface**
 
 <img src="https://github.com/andrewliew86/Deep-learning-tools-for-biomedical-text/blob/main/images/streamlit-image.PNG" width=90% height=90%>

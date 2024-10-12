@@ -15,10 +15,10 @@ Python libraries/tools: Standard Python libraries (Pandas, NumPy etc...), 🤗 t
 
 **Figure 1: Streamlit app interface**
 
-<img src="https://github.com/andrewliew86/Deep-learning-tools-for-biomedical-text/blob/main/images/streamlit-image.PNG" width=90% height=90%>
+<img src="https://github.com/andrewliew86/Deep-learning-tools-for-biomedical-text/blob/main/images/streamlit-image-white-bg.PNG" width=90% height=90%>
 
 **Figure 2: Basic architecture**
 
-<img src="https://github.com/andrewliew86/Deep-learning-tools-for-biomedical-text/blob/main/images/basic-architecture.png" width=30% height=40%>
+<img src="https://github.com/andrewliew86/Deep-learning-tools-for-biomedical-text/blob/main/images/basic-architecture-white-bg.PNG" width=30% height=40%>
 
 
